@@ -7,11 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-   background: url(sfondo.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: #ffefa4;
   color: #555;}
 
 p
@@ -43,7 +39,7 @@ h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
   font: normal 100% arial, sans-serif;
-  color: #F14E23;
+  color: #39a775;
   line-height: 1em;}
 
 h5, h6
@@ -129,7 +125,7 @@ ol li
   padding-right: 25px;
   text-align: right; 
   font: 500% 'tangerine', arial; 
-  color: #111;}
+  color: #0f513d;}
 
 #menubar
 { height: 46px;
@@ -166,10 +162,10 @@ ul#menu li.current a
 { background: #fff;
   border: 1px solid #ddd;
   border-bottom: 0;
-  color: #F14E23;}
+  color: #39a775;}
 
 ul#menu li a:hover
-{ color: #F14E23;}
+{ color: #39a775;}
 
 #site_content
 { width: 950px;
@@ -180,15 +176,15 @@ ul#menu li a:hover
   border: 1px solid #E7E7E7;} 
 
 #sidebar_container
-{ float: right;
+{ float: left;
   width: 250px;
-  margin: 25px 0;}
+  margin: 25px 25px ;}
 
 .sidebar
 { float: right;
   width: 200px;
   margin: 0 24px 27px 0;
-  background: #FBFBFB;
+  background: #f9e8d4;
   border: 1px solid #eee;
   padding: 0 15px 15px 15px;}
 
@@ -209,9 +205,10 @@ ul#menu li a:hover
  height: auto;
   }
 
+
 #content
 { text-align: left;
-  width: 630px;
+  width: 800px;
   padding: 25px 0 5px 25px;
   margin: 0;}
 
@@ -306,7 +303,7 @@ ul#menu li a:hover
   margin: 0;
   padding: 10px 5px;
   width: 189px;
-  color: #F14E23;}
+  color: #39a775;}
   
 .subscribe
 { color: #35BDF5;
