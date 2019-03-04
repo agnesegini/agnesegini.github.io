@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6
 
 h2
 { font: normal 170% 'Yanone Kaffeesatz', arial, sans-serif;
-  color: #F14E23;  
+  color: #39a775;  
   margin: 0;
   padding: 0 0 8px 0;}
 
@@ -218,7 +218,7 @@ ul#menu li a:hover
 #content ul li
 { list-style-type: none;
   background: url(bullet.png) no-repeat;
-  margin: 0 0 6px 100px; 
+  margin: 0 0 6px 25px; 
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
 
