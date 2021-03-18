@@ -1,0 +1,15 @@
+*~
+*.aux
+*.bbl
+*.blg
+*.pdf
+*.log
+*.out
+*.synctex.gz
+*.sage.py
+*.dat
+.DS_Store
+*.pyc
+*.synctex(busy)
+*.npy
+private
